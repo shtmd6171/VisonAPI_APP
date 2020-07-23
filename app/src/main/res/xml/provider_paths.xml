@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+
+res -> new -> Android Resource Directory -> values에서 xml 체크후 생성
+이 경로는 meta-data의 resource 의 경로로 사용됨
+
+ -->
+
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="external_files" />
+</paths>
